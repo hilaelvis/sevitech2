@@ -45,7 +45,7 @@ importers:
         specifier: ^2.13.3
         version: 2.15.5(@types/dom-mediacapture-record@1.0.22)
       livekit-server-sdk:
-        specifier: ^2.13.0
+        specifier: ^2.13.2
         version: 2.13.2
       motion:
         specifier: ^12.16.0
